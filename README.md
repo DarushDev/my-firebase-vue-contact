@@ -1,6 +1,5 @@
 # my-firebase-vue-contact
-
-> A Vue.js project
+Build a Vue Contact App Using Firebase Cloud Firestore
 
 ## Build Setup
 
@@ -25,3 +24,4 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
