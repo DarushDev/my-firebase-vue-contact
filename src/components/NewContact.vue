@@ -28,7 +28,7 @@
       <div class="field">
         <label for="" class="label">Phone Number</label>
         <div class="control">
-          <input type="text" class="input" placeholder="Phone Number" v-model="phonennumber" required>
+          <input type="text" class="input" placeholder="Phone Number" v-model="phonenumber" required>
         </div>
       </div>
 
