@@ -84,4 +84,19 @@
   }
 </script>
 
-<styl></styl>
+<style>
+
+  section{
+    height: 100vh;
+  }
+
+  h2 {
+    font-size: 30px;
+    margin: 30px 0;
+  }
+
+  .input {
+    height: 40px;
+  }
+
+</style>
