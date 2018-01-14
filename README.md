@@ -30,5 +30,4 @@ npm test
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ### Credits
-
-[Scotch.io](https://scotch.io/tutorials/getting-started-with-firebase-cloud-firestore-build-a-vue-contact-app)
+- [Scotch.io](https://scotch.io/tutorials/getting-started-with-firebase-cloud-firestore-build-a-vue-contact-app)
